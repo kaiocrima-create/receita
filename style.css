@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+header{
+    text-align: center;
+    font-size: 28px;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+}
+main{
+    width: 80%;
+    margin: 30px;px auto 0px auto;
+}
+img{
+    margin:20px 0 20px 0;
+    width:100%;
+}
+strong{
+    color: green;
+}
+h1{
+    font-size: 25px;
+    text-align: center;
+    color: gold;
+}
+p{
+    text-align: justify;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+    margin: 30px 0 ;
+}
+
